@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:travelby_app/shared/assets.dart';
 import 'package:travelby_app/shared/theme.dart';
-import 'package:travelby_app/ui/pages/home_page.dart';
+import 'package:travelby_app/ui/pages/content/home_page.dart';
 import 'package:travelby_app/ui/widgets/custom_button_navigation_item.dart';
 
 class MainPage extends StatelessWidget {

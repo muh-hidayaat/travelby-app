@@ -8,4 +8,5 @@ class AppAsset {
   static const iconCard = 'assets/icon_card.png';
   static const iconSettings = 'assets/icon_settings.png';
   static const iconStar = 'assets/icon_star.png';
+  static const emblem = 'assets/icon_emblem.png';
 }
