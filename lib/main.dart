@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:travelby_app/ui/pages/get_started_page.dart';
+import 'package:travelby_app/ui/pages/home_page.dart';
 import 'package:travelby_app/ui/pages/signup_page.dart';
 import 'package:travelby_app/ui/pages/splash_page.dart';
 
@@ -21,6 +22,7 @@ class MyApp extends StatelessWidget {
         '/get-started': (context) => const GetStartedPage(),
         '/signup': (context) => const SignupPage(),
         '/bonus': (context) => const BonusPage(),
+        '/home': (context) => const HomePage(),
       },
     );
   }
