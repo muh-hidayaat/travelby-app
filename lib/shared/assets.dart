@@ -9,4 +9,7 @@ class AppAsset {
   static const iconSettings = 'assets/icon_settings.png';
   static const iconStar = 'assets/icon_star.png';
   static const emblem = 'assets/icon_emblem.png';
+  static const iconAvailable = 'assets/icon_available.png';
+  static const iconSelected = 'assets/icon_selected.png';
+  static const iconUnavailable = 'assets/icon_unavailable.png';
 }
