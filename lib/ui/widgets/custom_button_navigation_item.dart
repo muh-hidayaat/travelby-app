@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 
-import '../../shared/assets.dart';
 import '../../shared/theme.dart';
 
 class CustomButtonNavigationItem extends StatelessWidget {
