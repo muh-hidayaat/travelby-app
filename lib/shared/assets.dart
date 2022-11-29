@@ -7,4 +7,5 @@ class AppAsset {
   static const iconBooking = 'assets/icon_booking.png';
   static const iconCard = 'assets/icon_card.png';
   static const iconSettings = 'assets/icon_settings.png';
+  static const iconStar = 'assets/icon_star.png';
 }

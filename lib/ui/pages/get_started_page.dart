@@ -42,7 +42,7 @@ class GetStartedPage extends StatelessWidget {
                 CustomButton(
                   title: 'Get Started',
                   width: 220,
-                  margin: EdgeInsets.only(top: 50, bottom: 80),
+                  margin: const EdgeInsets.only(top: 50, bottom: 80),
                   onPressed: () {
                     Navigator.pushNamed(context, '/signup');
                   },
