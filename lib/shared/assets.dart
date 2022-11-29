@@ -12,4 +12,6 @@ class AppAsset {
   static const iconAvailable = 'assets/icon_available.png';
   static const iconSelected = 'assets/icon_selected.png';
   static const iconUnavailable = 'assets/icon_unavailable.png';
+  static const iconCheck = 'assets/icon_check.png';
+  static const success = 'assets/image_success.png';
 }

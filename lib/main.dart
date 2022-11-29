@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:travelby_app/ui/pages/content/checkout_page.dart';
 import 'package:travelby_app/ui/pages/content/choose_seat_page.dart';
+import 'package:travelby_app/ui/pages/content/succes_checkout_page.dart';
 import 'package:travelby_app/ui/pages/intro/get_started_page.dart';
 import 'package:travelby_app/ui/pages/main_page.dart';
 import 'package:travelby_app/ui/pages/auth/signup_page.dart';
@@ -27,6 +29,8 @@ class MyApp extends StatelessWidget {
         '/home': (context) => const MainPage(),
         '/detail': (context) => const DetailPage(),
         '/choose-seat': (context) => const ChooseSeatPage(),
+        '/checkout': (context) => const CheckoutPage(),
+        '/success-checkout': (context) => const SuccessCheckoutPage(),
       },
     );
   }

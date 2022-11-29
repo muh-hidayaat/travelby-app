@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:travelby_app/shared/assets.dart';
 
 import '../../shared/theme.dart';
 
@@ -18,7 +19,7 @@ class InterestItem extends StatelessWidget {
             margin: const EdgeInsets.only(right: 6),
             decoration: const BoxDecoration(
               image: DecorationImage(
-                image: AssetImage('assets/icon_check.png'),
+                image: AssetImage(AppAsset.iconCheck),
               ),
             ),
           ),
