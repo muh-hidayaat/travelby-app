@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "544038351356",
+    "project_id": "travelby-app",
+    "storage_bucket": "travelby-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544038351356:android:db7b5c64cc74084b4cc279",
+        "android_client_info": {
+          "package_name": "com.hidiyit.travelby"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544038351356-ekdcl64u3tdcob7mqp5d64lo11l4g77g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB68SPmI1geb5SWENC2ku1XNEQQITwcW3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544038351356-ekdcl64u3tdcob7mqp5d64lo11l4g77g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
