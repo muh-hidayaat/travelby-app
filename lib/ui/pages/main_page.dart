@@ -4,10 +4,11 @@ import 'package:travelby_app/cubit/page_cubit.dart';
 import 'package:travelby_app/shared/assets.dart';
 import 'package:travelby_app/shared/theme.dart';
 import 'package:travelby_app/ui/pages/content/home_page.dart';
-import 'package:travelby_app/ui/pages/content/setting_page.dart';
 import 'package:travelby_app/ui/pages/content/transaction_page.dart';
 import 'package:travelby_app/ui/pages/content/wallet_page.dart';
 import 'package:travelby_app/ui/widgets/custom_bottom_navigation_item.dart';
+
+import 'auth/setting_page.dart';
 
 class MainPage extends StatelessWidget {
   const MainPage({super.key});
